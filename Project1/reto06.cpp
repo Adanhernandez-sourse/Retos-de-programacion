@@ -1,3 +1,16 @@
+/**************************************************
+ * Universidad Politecnica de Tulancingo          *
+ * Ingenieria en sistemas electronicos            *
+ * Programacion estructurada                      *
+ * septiembre-diciembre 2026                      *
+ * A Negrete                                      *
+ **************************************************
+ * App que maneja la terminal o simbolo del       *
+ * sistema                                        *
+ * Alumno: Adan Hernandez Hernandez               *
+ * Reto:   mayor de tres numeros                  *
+ **************************************************/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main() {
