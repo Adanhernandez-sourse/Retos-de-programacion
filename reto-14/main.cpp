@@ -8,7 +8,7 @@
  * App que maneja la terminal o simbolo del       *
  * sistema                                        *
  * Alumno: Adan Hernandez Hernandez               *
- * Reto: 14                                       *
+ * Reto: uso de arreglo de estructuras            *
  **************************************************/
 
 #include <iostream>
