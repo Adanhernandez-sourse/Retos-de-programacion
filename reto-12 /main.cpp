@@ -8,7 +8,7 @@
  * App que maneja la terminal o simbolo del       *
  * sistema                                        *
  * Alumno: Adan Hernandez Hernandez               *
- * Reto: 12             *
+ * Reto: 12                                       *
  **************************************************/
 
 #include <stdio.h>
