@@ -7,8 +7,8 @@
  **************************************************
  * App que maneja la terminal o simbolo del       *
  * sistema                                        *
- * Alumno: Adan Hernandez                         *
- * Reto: [pon aqui el numero de reto]             *
+ * Alumno: Adan Hernandez Hernandez               *
+ * Reto: 14                                       *
  **************************************************/
 
 #include <iostream>
