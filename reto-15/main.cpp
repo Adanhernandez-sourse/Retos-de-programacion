@@ -8,7 +8,8 @@
  * App que maneja la terminal o simbolo del       *
  * sistema                                        *
  * Alumno: Adan Hernandez Hernandez               *
- * Reto: 15                                       *
+ * Reto: Lectura del archivo con la imagen del    *
+ * ahorcado                                       * 
  **************************************************/
 
 #include <iostream>
